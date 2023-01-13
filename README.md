@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: 
   - School email: 2194411247@stu.xjtu.edu.cn
-  - Personal email: 1246321319@qq.com
+  - Personal email: xjtu_lyc_2019@foxmail.com
   - WeChat/QQ: li0608999 / 1246321319
   - Personal Website: https://youchengli.com/
 

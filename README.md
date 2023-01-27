@@ -2,9 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xjtulyc.YouchengLi&right_color=green)
 
-- 👋 Hi, I’m Youcheng Li, a PhD student at Peking University supervised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/). Visit my homepage for more: [https://youchengli.com/](https://youchengli.com/). 
+- 👋 Hi, I’m Youcheng Li, a PhD student at Peking University supervised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/). Visit my homepage for more: [https://youchengli.com/](https://youchengli.com/). During my undergraduate years, I made a preliminary exploration of medical images and biological information in [the College of Artificial Intelligence of Xi 'an Jiaotong University](http://www.aiar.xjtu.edu.cn/).
 - 🔭 I am interested in the application of machine learning, especially computer vision in the field of ``biomedical engineering``. 
-- 👯 I’m looking for long-term research intern, collaboration.
+- 👯 I’m looking for **long-term research intern, collaboration**.
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=xjtulyc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide=stars" />
 -->
 - 📫 How to reach me: 

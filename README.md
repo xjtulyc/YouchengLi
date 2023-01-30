@@ -16,6 +16,11 @@
 <!-- From this repo: https://github.com/anuraghazra/github-readme-stats -->
 <!--![Youcheng's github stats](https://github-readme-stats.vercel.app/api?username=xjtulyc&show_icons=false&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=vue&hide_title=true&hide_rank=true)
 -->
-<!--
+
 ![Youcheng's github stats](https://github-readme-stats.vercel.app/api?username=xjtulyc&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xjtulyc&theme=radical&layout=compact)
--->
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xjtulyc&margin-w=5&row=1&column=7" alt="xjtulyc" /></a> </p>

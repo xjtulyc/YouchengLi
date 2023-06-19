@@ -12,6 +12,8 @@
   - Personal email: xjtu_lyc_2019@foxmail.com
   - WeChat/QQ: li0608999 / 1246321319
   - Personal Website: https://youchengli.com/
+  - Google Scholar: [My Google Scholar Page](https://scholar.google.com/citations?user=cRWgAzcAAAAJ&hl=zh-CN)
+  - ResearchGate: [My Research Gate Page](https://www.researchgate.net/profile/Youcheng-Li-2)
 
 <!-- From this repo: https://github.com/anuraghazra/github-readme-stats -->
 <!--![Youcheng's github stats](https://github-readme-stats.vercel.app/api?username=xjtulyc&show_icons=false&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=vue&hide_title=true&hide_rank=true)

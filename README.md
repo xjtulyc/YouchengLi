@@ -8,7 +8,7 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=xjtulyc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide=stars" />
 -->
 - 📫 How to reach me: 
-  - School email: 2194411247@stu.xjtu.edu.cn
+  - School email: youchengli@stu.pku.edu.cn
   - Personal email: xjtu_lyc_2019@foxmail.com
   - WeChat/QQ: li0608999 / 1246321319
   - Personal Website: https://youchengli.com/

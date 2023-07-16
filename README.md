@@ -9,7 +9,7 @@
 -->
 - 📫 How to reach me: 
   - School email: youchengli@stu.pku.edu.cn
-  - Personal email: xjtu_lyc_2019@foxmail.com
+  - Personal email: 1246321319@qq.com
   - WeChat/QQ: li0608999 / 1246321319
   - Personal Website: https://youchengli.com/
   - Google Scholar: [My Google Scholar Page](https://scholar.google.com/citations?user=cRWgAzcAAAAJ&hl=zh-CN)

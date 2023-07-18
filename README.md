@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm <a href="https://youchengli.com">Youcheng Li</a>.👋 </h1> 
-
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=xjtulyc.YouchengLi&right_color=green)
+-->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=xjtulyc&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p>
 
 - 👋 Hi, I’m Youcheng Li, a PhD student at Peking University supervised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/). Visit my homepage for more: [https://youchengli.com/](https://youchengli.com/). During my undergraduate years, I made a preliminary exploration of medical images and biological information in [the College of Artificial Intelligence of Xi 'an Jiaotong University](http://www.aiar.xjtu.edu.cn/).
 - 🔭 I am interested in the application of machine learning, especially computer vision in the field of ``biomedical engineering``. 
